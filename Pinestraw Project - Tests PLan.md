@@ -40,7 +40,7 @@ ORDERS
 
 2- As Superuser
 
-- Insert an Order
+- Insert an Order - OK
 - List Orders - OK
 - Change an Order in Waiting status - OK
 - Change an Order in other status - OK
