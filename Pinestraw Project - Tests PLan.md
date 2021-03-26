@@ -2,11 +2,15 @@
 
 PREMISSES:
 
-=> View Menu (list of products) - OK \n\r
-=> Order at coffee shop with options - OK \n\r
-=> View his order (product list, pricing & order status) - OK \n\r
-=> Change a waiting order - OK \n\r
-=> Cancel a waiting orders - OK \n\r
+- View Menu (list of products) - OK 
+
+- Order at coffee shop with options - OK 
+
+- View his order (product list, pricing & order status) - OK
+
+- Change a waiting order - OK 
+
+- Cancel a waiting orders - OK 
 
 
 *=> TESTS PLAN <=*
